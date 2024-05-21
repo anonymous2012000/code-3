@@ -2,9 +2,9 @@
 
 Dependencies:
 
-GMP: https://gmplib.org/
+* GMP: https://gmplib.org/
 
-NTL library: https://libntl.org/
+* NTL library: https://libntl.org/
 
 Runnig a test: 
 Clone download the repository (i.e., code-3-main). Install the libraries and unzip the downloaded file, code-3-main.zip. Then, run the following command lines in order:
