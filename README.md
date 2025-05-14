@@ -6,8 +6,8 @@ Dependencies:
 
 * NTL library: https://libntl.org/
 
-Runnig a test: 
-* Clone download the repository (i.e., code-3-main).
+Running a test: 
+* Clone the repository (i.e., code-3-main).
 * Install the libraries and unzip the downloaded file, code-3-main.zip. 
 * Run the following command lines in order:
 
@@ -16,4 +16,3 @@ Runnig a test:
         ./test
 
 
-Alternatively you can run the test.exec file. 
