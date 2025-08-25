@@ -4,7 +4,7 @@ This test checks if a polynomial of degree 1 divides a polynomial of degree 3d+1
 It includes (1) various sizes of hash tables where each hash table contains a polynomial and
 (2) two different field sizes: 64 and 128 bits.
 */
-//*********************************************************************
+//*****************************************************************
 #include <iostream>
 #include "gmp.h"
 #include <unordered_map>
@@ -151,4 +151,5 @@ int main() {
 
 
 //**********************************************************************
+
 
