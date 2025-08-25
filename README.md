@@ -7,7 +7,7 @@ Dependencies:
 * NTL library: https://libntl.org/
 
 Running a test: 
-* Clone the repository (i.e., code-3-main).
+* Clone the repository, i.e., code-3-main
 * Install the libraries and unzip the downloaded file, code-3-main.zip. 
 * Run the following command lines in order:
 
